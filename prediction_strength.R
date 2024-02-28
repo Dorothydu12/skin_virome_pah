@@ -1,0 +1,12 @@
+#Prediction strength(rowname:samplename)
+library(fpc)
+tax_cast=read.csv("species.csv",header = T,row.names = 1)
+tax_cast <- t(tax_cast)
+distance_b <- vegdist(tax_cast, method="bray")
+BrayMatrix <- as.matrix(distance_b)
+
+ps <- prediction.strength(BrayMatrix,M=100)
+#Calculate number of clusters and their clustering strength (cluster package)
+library(cluster)
+cluster <- pam(BrayMatrix,2,cluster.only=TRUE)
+write.table(cluster,"PAM_cutotype.txt")
