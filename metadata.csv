@@ -1,0 +1,125 @@
+Sample,Cutotype_PAM,Subject_ID,City,Age_group,Acne_onset,Face_pigmentation_frequency,Age,CL_MEAS (Sebum µg/cm2 on forehead),Sebum class ,Sebum group
+LOR002C,Cutotype 1,5,Baoding,40-45,Acne,2,40,92,Medium,Normal to high sebum
+LOR003C,Cutotype 1,6,Baoding,25-29,No_Acne,3,25,85,Medium,Normal to high sebum
+LOR074C,Cutotype 2,7,Baoding,35-39,Acne,2,35,117,Medium,Normal to high sebum
+LOR072C,Cutotype 1,10,Baoding,40-45,No_Acne,2,41,83,Medium,Normal to high sebum
+LOR076C,Cutotype 2,11,Baoding,30-34,Acne,2,31,116,Medium,Normal to high sebum
+LOR018C,Cutotype 2,15,Baoding,30-34,Acne,2,31,119,Medium,Normal to high sebum
+LOR005C,Cutotype 1,17,Baoding,35-39,Acne,2,36,69,Low,Hyposeborrheic
+LOR009C,Cutotype 1,18,Baoding,35-39,Acne,2,38,73,Medium,Normal to high sebum
+LOR081C,Cutotype 2,19,Baoding,40-45,Acne,2,42,175,High,Normal to high sebum
+LOR082C,Cutotype 1,20,Baoding,40-45,Acne,2,42,147,High,Normal to high sebum
+LOR036C,Cutotype 2,24,Baoding,30-34,No_Acne,3,33,32,Low,Hyposeborrheic
+LOR084C,Cutotype 2,25,Baoding,40-45,No_Acne,3,42,103,Medium,Normal to high sebum
+LOR061C,Cutotype 2,27,Baoding,40-45,No_Acne,2,44,119,Medium,Normal to high sebum
+LOR062C,Cutotype 1,28,Baoding,35-39,Acne,3,38,71,Medium,Normal to high sebum
+LOR019C,Cutotype 2,30,Baoding,35-39,No_Acne,3,37,15,Low,Hyposeborrheic
+LOR015C,Cutotype 2,31,Baoding,40-45,No_Acne,3,44,15,Low,Hyposeborrheic
+LOR014C,Cutotype 1,32,Baoding,40-45,Acne,2,41,124,High,Normal to high sebum
+LOR017C,Cutotype 1,33,Baoding,35-39,Acne,2,38,168,High,Normal to high sebum
+LOR012C,Cutotype 1,36,Baoding,25-29,No_Acne,4,29,75,Medium,Normal to high sebum
+LOR103C,Cutotype 2,37,Baoding,35-39,No_Acne,2,39,7,Low,Hyposeborrheic
+LOR013C,Cutotype 2,39,Baoding,40-45,No_Acne,2,44,77,Medium,Normal to high sebum
+LOR007C,Cutotype 1,40,Baoding,30-34,Acne,2,34,145,High,Normal to high sebum
+LOR008C,Cutotype 1,42,Baoding,30-34,Acne,2,33,119,Medium,Normal to high sebum
+LOR006C,Cutotype 1,43,Baoding,30-34,Acne,3,32,77,Medium,Normal to high sebum
+LOR037C,Cutotype 2,44,Baoding,30-34,Acne,2,31,66,Low,Hyposeborrheic
+LOR085C,Cutotype 2,45,Baoding,40-45,No_Acne,3,45,45,Low,Hyposeborrheic
+LOR020C,Cutotype 2,48,Baoding,40-45,No_Acne,2,42,56,Low,Hyposeborrheic
+LOR086C,Cutotype 2,50,Baoding,25-29,Acne,2,26,84,Medium,Normal to high sebum
+LOR046C,Cutotype 1,53,Baoding,30-34,No_Acne,2,32,12,Low,Hyposeborrheic
+LOR058C,Cutotype 2,54,Baoding,30-34,Acne,2,30,59,Low,Hyposeborrheic
+LOR063C,Cutotype 1,55,Baoding,40-45,No_Acne,2,45,92,Medium,Normal to high sebum
+LOR051C,Cutotype 2,60,Baoding,25-29,No_Acne,2,25,140,High,Normal to high sebum
+LOR021C,Cutotype 1,66,Baoding,25-29,Acne,2,25,96,Medium,Normal to high sebum
+LOR022C,Cutotype 2,68,Baoding,40-45,No_Acne,2,41,183,High,Normal to high sebum
+LOR065C,Cutotype 1,70,Baoding,30-34,Acne,2,30,154,High,Normal to high sebum
+LOR083C,Cutotype 2,74,Baoding,30-34,No_Acne,2,32,94,Medium,Normal to high sebum
+LOR054C,Cutotype 2,75,Baoding,35-39,No_Acne,2,37,15,Low,Hyposeborrheic
+LOR055C,Cutotype 1,81,Baoding,35-39,Acne,2,37,156,High,Normal to high sebum
+LOR023C,Cutotype 1,84,Baoding,30-34,Acne,2,30,194,High,Normal to high sebum
+LOR033C,Cutotype 2,85,Baoding,35-39,Acne,2,37,44,Low,Hyposeborrheic
+LOR091C,Cutotype 1,90,Baoding,25-29,Acne,2,29,154,High,Normal to high sebum
+LOR024C,Cutotype 1,94,Baoding,25-29,Acne,2,25,171,High,Normal to high sebum
+LOR025C,Cutotype 2,95,Baoding,25-29,No_Acne,4,27,43,Low,Hyposeborrheic
+LOR026C,Cutotype 2,97,Baoding,40-45,No_Acne,2,43,2,Low,Hyposeborrheic
+LOR027C,Cutotype 1,98,Baoding,25-29,Acne,2,25,73,Medium,Normal to high sebum
+LOR011C,Cutotype 1,100,Baoding,25-29,Acne,2,28,140,High,Normal to high sebum
+LOR028C,Cutotype 2,103,Baoding,35-39,Acne,3,38,38,Low,Hyposeborrheic
+LOR016C,Cutotype 2,104,Baoding,35-39,Acne,3,36,32,Low,Hyposeborrheic
+LOR029C,Cutotype 2,105,Baoding,40-45,No_Acne,3,44,79,Medium,Normal to high sebum
+LOR042C,Cutotype 1,106,Baoding,35-39,Acne,2,39,140,High,Normal to high sebum
+LOR101C,Cutotype 1,108,Baoding,40-45,No_Acne,3,42,28,Low,Hyposeborrheic
+LOR090C,Cutotype 2,109,Baoding,25-29,Acne,2,28,74,Medium,Normal to high sebum
+LOR070C,Cutotype 1,110,Baoding,35-39,Acne,2,35,157,High,Normal to high sebum
+LOR030C,Cutotype 1,112,Baoding,25-29,Acne,2,25,194,High,Normal to high sebum
+LOR034C,Cutotype 1,113,Baoding,25-29,Acne,2,29,67,Low,Hyposeborrheic
+LOR078C,Cutotype 2,119,Baoding,25-29,Acne,2,27,64,Low,Hyposeborrheic
+LOR102C,Cutotype 1,123,Baoding,25-29,No_Acne,2,29,85,Medium,Normal to high sebum
+LOR099C,Cutotype 1,124,Baoding,35-39,Acne,2,35,74,Medium,Normal to high sebum
+LOR098C,Cutotype 2,125,Baoding,25-29,Acne,2,29,91,Medium,Normal to high sebum
+LOR060C,Cutotype 2,126,Baoding,35-39,No_Acne,2,35,92,Medium,Normal to high sebum
+LOR221C,Cutotype 2,402,Dalian,40-45,No_Acne,2,43,26,Low,Hyposeborrheic
+LOR259C,Cutotype 1,404,Dalian,25-29,Acne,2,28,164,High,Normal to high sebum
+LOR248C,Cutotype 1,405,Dalian,25-29,Acne,2,28,159,High,Normal to high sebum
+LOR234C,Cutotype 1,412,Dalian,25-29,No_Acne,2,26,67,Low,Hyposeborrheic
+LOR235C,Cutotype 1,413,Dalian,25-29,No_Acne,2,26,182,High,Normal to high sebum
+LOR219C,Cutotype 2,414,Dalian,35-39,Acne,2,35,54,Low,Hyposeborrheic
+LOR203C,Cutotype 1,416,Dalian,35-39,Acne,2,35,202,High,Normal to high sebum
+LOR227C,Cutotype 1,417,Dalian,35-39,No_Acne,3,36,88,Medium,Normal to high sebum
+LOR208C,Cutotype 2,418,Dalian,30-34,No_Acne,2,34,33,Low,Hyposeborrheic
+LOR243C,Cutotype 2,419,Dalian,30-34,Acne,2,32,22,Low,Hyposeborrheic
+LOR223C,Cutotype 1,421,Dalian,30-34,Acne,2,30,18,Low,Hyposeborrheic
+LOR202C,Cutotype 1,422,Dalian,40-45,Acne,2,41,97,Medium,Normal to high sebum
+LOR233C,Cutotype 1,423,Dalian,25-29,No_Acne,2,28,145,High,Normal to high sebum
+LOR214C,Cutotype 1,425,Dalian,25-29,Acne,2,27,128,High,Normal to high sebum
+LOR289C,Cutotype 2,426,Dalian,30-34,No_Acne,4,34,44,Low,Hyposeborrheic
+LOR222C,Cutotype 2,428,Dalian,25-29,Acne,2,28,103,Medium,Normal to high sebum
+LOR287C,Cutotype 1,429,Dalian,30-34,Acne,2,32,97,Medium,Normal to high sebum
+LOR216C,Cutotype 1,430,Dalian,40-45,No_Acne,3,43,116,Medium,Normal to high sebum
+LOR218C,Cutotype 1,431,Dalian,30-34,Acne,3,33,89,Medium,Normal to high sebum
+LOR294C,Cutotype 1,434,Dalian,40-45,No_Acne,2,40,117,Medium,Normal to high sebum
+LOR210C,Cutotype 2,436,Dalian,40-45,Acne,2,42,65,Low,Hyposeborrheic
+LOR231C,Cutotype 1,437,Dalian,25-29,Acne,2,25,68,Low,Hyposeborrheic
+LOR288C,Cutotype 1,439,Dalian,35-39,No_Acne,2,35,169,High,Normal to high sebum
+LOR260C,Cutotype 2,440,Dalian,35-39,No_Acne,2,35,34,Low,Hyposeborrheic
+LOR237C,Cutotype 1,441,Dalian,35-39,Acne,3,36,91,Medium,Normal to high sebum
+LOR254C,Cutotype 1,448,Dalian,25-29,Acne,2,26,94,Medium,Normal to high sebum
+LOR204C,Cutotype 1,449,Dalian,25-29,Acne,2,29,110,Medium,Normal to high sebum
+LOR249C,Cutotype 1,450,Dalian,40-45,No_Acne,2,41,159,High,Normal to high sebum
+LOR262C,Cutotype 1,451,Dalian,35-39,Acne,2,36,91,Medium,Normal to high sebum
+LOR279C,Cutotype 1,454,Dalian,40-45,No_Acne,2,43,164,High,Normal to high sebum
+LOR300C,Cutotype 1,459,Dalian,40-45,No_Acne,2,41,171,High,Normal to high sebum
+LOR295C,Cutotype 2,461,Dalian,35-39,No_Acne,3,35,47,Low,Hyposeborrheic
+LOR246C,Cutotype 1,462,Dalian,30-34,Acne,2,34,214,High,Normal to high sebum
+LOR212C,Cutotype 2,468,Dalian,40-45,No_Acne,2,41,35,Low,Hyposeborrheic
+LOR281C,Cutotype 2,472,Dalian,25-29,No_Acne,2,28,102,Medium,Normal to high sebum
+LOR264C,Cutotype 1,473,Dalian,40-45,No_Acne,2,42,88,Medium,Normal to high sebum
+LOR230C,Cutotype 1,476,Dalian,40-45,No_Acne,3,41,60,Low,Hyposeborrheic
+LOR269C,Cutotype 1,477,Dalian,30-34,Acne,2,31,66,Low,Hyposeborrheic
+LOR207C,Cutotype 1,481,Dalian,25-29,Acne,2,25,194,High,Normal to high sebum
+LOR225C,Cutotype 2,483,Dalian,35-39,Acne,2,35,90,Medium,Normal to high sebum
+LOR272C,Cutotype 2,484,Dalian,25-29,Acne,2,25,90,Medium,Normal to high sebum
+LOR274C,Cutotype 1,485,Dalian,35-39,No_Acne,3,36,147,High,Normal to high sebum
+LOR220C,Cutotype 1,486,Dalian,30-34,No_Acne,2,30,84,Medium,Normal to high sebum
+LOR241C,Cutotype 2,491,Dalian,35-39,No_Acne,3,37,65,Low,Hyposeborrheic
+LOR275C,Cutotype 2,494,Dalian,35-39,Acne,3,35,62,Low,Hyposeborrheic
+LOR270C,Cutotype 1,496,Dalian,30-34,No_Acne,2,33,50,Low,Hyposeborrheic
+LOR217C,Cutotype 1,499,Dalian,35-39,Acne,3,36,162,High,Normal to high sebum
+LOR229C,Cutotype 2,502,Dalian,35-39,Acne,2,35,63,Low,Hyposeborrheic
+LOR239C,Cutotype 1,507,Dalian,35-39,No_Acne,2,39,88,Medium,Normal to high sebum
+LOR215C,Cutotype 2,508,Dalian,30-34,No_Acne,2,30,176,High,Normal to high sebum
+LOR283C,Cutotype 1,511,Dalian,40-45,No_Acne,2,41,1,Low,Hyposeborrheic
+LOR258C,Cutotype 1,512,Dalian,35-39,No_Acne,2,35,164,High,Normal to high sebum
+LOR303C,Cutotype 1,516,Dalian,30-34,No_Acne,2,30,133,High,Normal to high sebum
+LOR282C,Cutotype 2,522,Dalian,30-34,No_Acne,2,30,30,Low,Hyposeborrheic
+LOR211C,Cutotype 2,526,Dalian,35-39,Acne,2,35,43,Low,Hyposeborrheic
+LOR226C,Cutotype 1,529,Dalian,25-29,Acne,2,29,102,Medium,Normal to high sebum
+LOR228C,Cutotype 1,532,Dalian,40-45,Acne,1,40,56,Low,Hyposeborrheic
+LOR224C,Cutotype 1,533,Dalian,40-45,Acne,2,40,161,High,Normal to high sebum
+LOR240C,Cutotype 1,536,Dalian,40-45,No_Acne,2,45,93,Medium,Normal to high sebum
+LOR238C,Cutotype 1,541,Dalian,30-34,No_Acne,2,32,51,Low,Hyposeborrheic
+LOR242C,Cutotype 2,542,Dalian,40-45,Acne,2,40,75,Medium,Normal to high sebum
+LOR301C,Cutotype 1,543,Dalian,40-45,No_Acne,2,41,66,Low,Hyposeborrheic
+LOR284C,Cutotype 2,548,Dalian,40-45,No_Acne,3,40,11,Low,Hyposeborrheic
+LOR206C,Cutotype 2,549,Dalian,35-39,Acne,2,38,84,Medium,Normal to high sebum
